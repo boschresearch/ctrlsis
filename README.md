@@ -3,7 +3,7 @@ Official code for the Paper "**Ctrl-SIS: Class-Specific GAN Controls for Semanti
 
 The paper can be found here: https://arxiv.org/abs/2212.01455.  Please cite the above paper when reporting, reproducing or extending the results.
 
-
+![teaser](teaser.png)
 
 ## Commands
 Create and load conda environment
